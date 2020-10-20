@@ -5,7 +5,7 @@ const seconds = document.getElementById("seconds");
 const countdown = document.getElementById("countdown");
 const loading = document.getElementById("loading");
 
-const birthdayTime = new Date("January 30 2021 00:00:00");
+const birthdayTime = new Date("June 18 2021 00:00:00");
 
 function updateCountdown() {
   const currentTime = new Date();
